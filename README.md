@@ -1,2 +1,0 @@
-# Pamux.UnityGameTemplate
-Pamux.UnityGameTemplate

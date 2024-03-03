@@ -88,6 +88,7 @@
      <Compile Include="Assets\Pamux\Scripts\Runtime\GameMechanics\Components\InteractingAgent.cs" />
      <Compile Include="Assets\Pamux\Scripts\Runtime\CharacterController\Data\ParsedInput.cs" />
      <Compile Include="Assets\Pamux\Scripts\Runtime\CharacterController\LocomotionZones\LocomotionZoneBase.cs" />
+     <Compile Include="Assets\Pamux\Scripts\Runtime\CharacterController\Utils\Singletons.cs" />
      <Compile Include="Assets\Pamux\Scripts\Runtime\CharacterController\LocomotionZones\Land\LandLocomotionZone.cs" />
      <Compile Include="Assets\Pamux\Gizmos\PamuxMeshGizmo.cs" />
      <Compile Include="Assets\Pamux\Scripts\Runtime\CharacterController\LocomotionZones\Water\WaterLocomotionZoneParameters.cs" />

@@ -1,0 +1,11 @@
+{
+    "OriginalPackagePath": "Unity Technologies/3D ModelsCharactersRobots/Robot Kyle URP.unitypackage",
+    "Company": "Unity Technologies",
+    "Pamuxification" : {
+        "Time": "2/24/2024 8:51 AM PST",
+        "UnityVersion": "2022.3.19f1 LTS",
+        "RenderPipelineCompatibility" : [ "URP" ]
+    },
+    "ExportTo": "Pamuxified.Characters.unitypackage|Assets/Pamuxified/Characters/SpaceRobotKyle",
+    "Notes" : "Test Pamuxification to document the process"
+}
